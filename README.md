@@ -11,7 +11,6 @@ Bu proje, **S4E.io** platformunun kayıt (Sign Up) modülü için hazırlanan; u
 ## 📂 Proje Yapısı
 ```text
 s4e-reg-module-automated-test/
-├── .github/workflows/     # CI/CD süreçleri için GitHub Actions'ta deployement
 ├── assets/                # Hataların ekran görüntüleri (Bug Screenshots)
 ├── reports/               # Detaylı PDF Test Raporu
 ├── tests/                 # Playwright register test senaryosu (register.spec.js)
